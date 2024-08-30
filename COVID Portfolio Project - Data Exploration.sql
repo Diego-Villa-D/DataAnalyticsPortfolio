@@ -1,3 +1,7 @@
+-- Data exploration using BigQuery
+
+-- Dataset overview
+
 SELECT * 
 FROM `covid-project-434023.COVID_Datasets.COVID_Deaths` 
 ORDER BY 3, 4
